@@ -1,0 +1,6 @@
+{
+  "name": "Shopee Entregas",
+  "description": "Registro e histórico de entregas com banco de dados local para guardar os dados com segurança.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
